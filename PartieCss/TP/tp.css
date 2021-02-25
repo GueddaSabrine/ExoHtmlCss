@@ -1,0 +1,74 @@
+* {
+    @import url('https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100&display=swap');
+    font-family: 'Arima Madurai', cursive;
+}
+table {
+    margin: 25px 50px 75px 100px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.gris {
+    background-color: gainsboro;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+}
+.bleu {
+    background-color: #009bcc;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.vert {
+    background-color:#96c21f;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.rose {
+    background-color:#e65686;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.rouge {
+    background-color:#d9006b;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.turquoise {
+    background-color:#11bcaf;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.violet {
+    background-color:#7459ad;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.orange {
+    background-color:#ec6b05;
+    width: 5%;
+    height: 5%;
+    padding: 3%;
+    color: white;
+}
+.img {
+    background-image: url("stripes.png");
+    width: 3%;
+    height: 3%;
+    padding: 1%;
+}

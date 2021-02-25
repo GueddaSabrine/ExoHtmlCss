@@ -1,0 +1,12 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.bleu {
+    background-color: darkcyan;
+}
+.violet {
+    background-color: darkmagenta;
+}
+.rouge {
+    background-color: deeppink;
+}
