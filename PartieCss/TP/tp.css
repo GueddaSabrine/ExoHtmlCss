@@ -4,63 +4,49 @@
 }
 table {
     margin: 25px 50px 75px 100px;
+    border-collapse: collapse;
 }
-table, th, td {
+th, td {
     text-align: center;
     border: 2px solid black;
-    border-collapse: collapse;
-    padding: 25px 0px 25px 0px;
+    padding: 25px 0px;
+    width: 5%;
+    height: 60px;
+}
+td {
+    color: white;
+}
+th {
+    font-weight: normal;
 }
 .gris {
-    background-color: gainsboro;
-    width: 5%;
-    height: 60px;
+    background-color: gainsboro;  
+    color: black; 
 }
 .bleu {
-    background-color: #009bcc;
-    width: 5%;
-    height: 60px;
-    color: white;
+    background-color: #009bcc;   
 }
 .vert {
-    background-color:#96c21f;
-    width: 5%;
-    height: 60px;
-    color: white;
+    background-color:#96c21f;    
 }
 .rose {
-    background-color:#e65686;
-    width: 5%;
-    height: 60px;
-    color: white;
+    background-color:#e65686;   
 }
 .rouge {
-    background-color:#d9006b;
-    width: 5%;
-    height: 60px;
-    color: white;
+    background-color:#d9006b;    
 }
 .turquoise {
-    background-color:#11bcaf;
-    width: 5%;
-    height: 60px;
-    color: white;
+    background-color:#11bcaf;   
 }
 .violet {
-    background-color:#7459ad;
-    width: 5%;
-    height: 60px;
-    color: white;
+    background-color:#7459ad;    
 }
 .orange {
-    background-color:#ec6b05;
-    width: 5%;
-    height: 60px;
-    color: white;
-}
-.bbreak{
-    background-color: gainsboro;
+    background-color:#ec6b05;   
 }
 .break {
     background-image: url("stripes.png");
+}
+.bbreak {
+    height: 20px;
 }
